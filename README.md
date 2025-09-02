@@ -37,11 +37,11 @@ It lets you create strong and random passwords by selecting the number of letter
 
 🎯 Future Improvements
 
-Add password strength indicator.
+- Add password strength indicator.
 
-Add copy-to-clipboard button.
+- Add copy-to-clipboard button.
 
-Deploy online with Streamlit Cloud.
+- Deploy online with Streamlit Cloud.
 
 ---
 
